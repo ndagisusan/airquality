@@ -1,5 +1,7 @@
 # IoT Air Quality Analysis and Alert System
 
+(Undergraduate Final Year Project)
+
 For the project to run successfully, it required the following:
 1. Arduino IDE where the code that ran on the hardware devices was developed. This code is in the HARDWARE folder.
 2. MQTT protocol using the Mosquitto broker that ran on a Raspberry Pi. 
